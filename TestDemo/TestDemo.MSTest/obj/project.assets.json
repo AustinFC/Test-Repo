@@ -1,0 +1,199 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework/11.0.50727.1": {
+        "type": "package"
+      },
+      "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        }
+      },
+      "TestDemo/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TestDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestDemo.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win": {
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework/11.0.50727.1": {
+        "type": "package"
+      },
+      "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        }
+      },
+      "TestDemo/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TestDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestDemo.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x64": {
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework/11.0.50727.1": {
+        "type": "package"
+      },
+      "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        }
+      },
+      "TestDemo/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TestDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestDemo.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x86": {
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework/11.0.50727.1": {
+        "type": "package"
+      },
+      "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {}
+        }
+      },
+      "TestDemo/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TestDemo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.VisualStudio.QualityTools.UnitTestFramework/11.0.50727.1": {
+      "sha512": "MM3IUKZ11zbZA658hkGnAgf2Br58ZOWExCLevemDlw+xKgh5pgWO5stPSZM50w4bt0WzQ8DzKAA8N7yBxa8u8A==",
+      "type": "package",
+      "path": "microsoft.visualstudio.qualitytools.unittestframework/11.0.50727.1",
+      "files": [
+        "MSTest.exe",
+        "MSTest.exe.config",
+        "Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll",
+        "Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml",
+        "microsoft.visualstudio.qualitytools.unittestframework.11.0.50727.1.nupkg.sha512",
+        "microsoft.visualstudio.qualitytools.unittestframework.nuspec"
+      ]
+    },
+    "Microsoft.VisualStudio.UnitTesting/11.0.50727.1": {
+      "sha512": "DoqQ6Zl7GcytRa1isWv20MyV1znFRDje6k/y3edbew3Qx/Z1r5Cf6rBktD7lGxN97d2VVC5RzdFHw+dci9lsMw==",
+      "type": "package",
+      "path": "microsoft.visualstudio.unittesting/11.0.50727.1",
+      "files": [
+        "LICENSE.txt",
+        "THIRD-PARTY-LICENSE.txt",
+        "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll",
+        "lib/net45/Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml",
+        "microsoft.visualstudio.unittesting.11.0.50727.1.nupkg.sha512",
+        "microsoft.visualstudio.unittesting.nuspec",
+        "tools/net45/MSTest.exe",
+        "tools/net45/MSTest.exe.config"
+      ]
+    },
+    "TestDemo/1.0.0": {
+      "type": "project",
+      "path": "../TestDemo/TestDemo.csproj",
+      "msbuildProject": "../TestDemo/TestDemo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework >= 11.0.50727.1",
+      "Microsoft.VisualStudio.UnitTesting >= 11.0.50727.1",
+      "TestDemo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\v-aucole\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\v-aucole\\source\\repos\\TestDemo\\TestDemo.MSTest\\TestDemo.MSTest.csproj",
+      "projectName": "TestDemo.MSTest",
+      "projectPath": "C:\\Users\\v-aucole\\source\\repos\\TestDemo\\TestDemo.MSTest\\TestDemo.MSTest.csproj",
+      "packagesPath": "C:\\Users\\v-aucole\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\v-aucole\\source\\repos\\TestDemo\\TestDemo.MSTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\v-aucole\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {
+            "C:\\Users\\v-aucole\\source\\repos\\TestDemo\\TestDemo\\TestDemo.csproj": {
+              "projectPath": "C:\\Users\\v-aucole\\source\\repos\\TestDemo\\TestDemo\\TestDemo.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "Microsoft.VisualStudio.QualityTools.UnitTestFramework": {
+            "target": "Package",
+            "version": "[11.0.50727.1, )"
+          },
+          "Microsoft.VisualStudio.UnitTesting": {
+            "target": "Package",
+            "version": "[11.0.50727.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

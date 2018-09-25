@@ -1,0 +1,11 @@
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\bin\Debug\TestDemo.MSTest.dll
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\bin\Debug\TestDemo.MSTest.pdb
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\bin\Debug\TestDemo.exe
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\bin\Debug\TestDemo.pdb
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\bin\Debug\TestDemo.exe.config
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\obj\Debug\TestDemo.MSTest.csprojAssemblyReference.cache
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\obj\Debug\TestDemo.MSTest.csproj.CoreCompileInputs.cache
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\obj\Debug\TestDemo.MSTest.csproj.CopyComplete
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\obj\Debug\TestDemo.MSTest.dll
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\obj\Debug\TestDemo.MSTest.pdb
+C:\Users\v-aucole\source\repos\TestDemo\TestDemo.MSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
